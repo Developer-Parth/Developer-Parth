@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Developer-Parth
+- 👋 Hi, I’m ***Parth Thukral***
 - 👀 I’m interested in AI Developing, Websites, and some Graphic Designing
 - 🌱 I’m currently learning AI Engineering
 - 💞️ I’m looking to collaborate on 3d Portfolio Website
