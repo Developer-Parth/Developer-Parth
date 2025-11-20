@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/progameop" target="blank"><img src="https://img.shields.io/twitter/follow/progameop?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [My 3D Portfolio Website](parth-thukral-portfolio.vercel.app)
+- 🔭 I’m currently working on [My 3D Portfolio Website](https://parth-thukral-portfolio.vercel.app)
 
 - 🌱 I’m currently learning **Web Development, Python, Backend**
 
