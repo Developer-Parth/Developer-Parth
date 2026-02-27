@@ -31,6 +31,6 @@ I'm a high school developer who builds web apps, games, and AI experiments with 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/parththukral) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created by Parth Thukral -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-parth&" alt="developer-parth" /></p>
+<p>Hoping to connect in the Future!</p>
