@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Parth Thukral</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Parth+%F0%9F%91%8B;AI%2FML+Learner+%F0%9F%A4%96;JavaScript+%26+Python+Dev+%F0%9F%9A%80;CLI+Tool+Builder+%F0%9F%9B%A0%EF%B8%8F;Visionary+Builder+with+Code+%F0%9F%94%AE;Learning+by+Building+%F0%9F%94%A5" />
+</p>
+
 # 💫 About Me:
 I'm a 17 year old high school developer who builds web apps, games, and AI experiments with a strong focus on execution and real-world application.<br><br>I prefer learning by building — whether it's creating 3D web interfaces, cloning platforms to understand architecture, or participating in 24-hour hackathons.<br><br>Alongside coding, I’m strengthening my mathematical and analytical foundation while preparing for competitive exams.<br><br>I’m particularly interested in AI systems, large-scale problem solving, and long-term technology research.
 
