@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-I'm a high school developer who builds web apps, games, and AI experiments with a strong focus on execution and real-world application.<br><br>I prefer learning by building — whether it's creating 3D web interfaces, cloning platforms to understand architecture, or participating in 24-hour hackathons.<br><br>Alongside coding, I’m strengthening my mathematical and analytical foundation while preparing for competitive exams.<br><br>I’m particularly interested in AI systems, large-scale problem solving, and long-term technology research.
+I'm a 17 year old high school developer who builds web apps, games, and AI experiments with a strong focus on execution and real-world application.<br><br>I prefer learning by building — whether it's creating 3D web interfaces, cloning platforms to understand architecture, or participating in 24-hour hackathons.<br><br>Alongside coding, I’m strengthening my mathematical and analytical foundation while preparing for competitive exams.<br><br>I’m particularly interested in AI systems, large-scale problem solving, and long-term technology research.
 
 
 ## 🌐 Socials:
@@ -32,5 +32,6 @@ I'm a high school developer who builds web apps, games, and AI experiments with 
 
   
 <!-- Proudly created by Parth Thukral -->
+---
 
-<p>Hoping to connect in the Future!</p>
+<h3 align="center">Hoping to connect in the Future!😉</h3>
